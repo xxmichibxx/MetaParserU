@@ -1,5 +1,5 @@
 <h3 align="center">MetaParserU</h3>
-<p align="center"><img href="https://github.com/xxmichibxx/MetaParserU" src="https://i.imgur.com/gNuy8WR.png" alt="Logo" width="80" height="80"></p>
+<p align="center"><a href="https://github.com/xxmichibxx/MetaParserU"><img src="https://i.imgur.com/gNuy8WR.png" alt="Logo" width="80" height="80"></a></p>
 <h3 align="center">A batch for parsing the meta.xml file from decrypted Nintendo Wii U titles.</h3>
 <hr>
 
