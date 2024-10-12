@@ -1,6 +1,9 @@
-# MetaParserU
-A batch for parsing the ```meta.xml``` file from decrypted Nintendo Wii U titles.
+<h3 align="center">MetaParserU</h3>
+<p align="center"><img href="https://github.com/xxmichibxx/MetaParserU" src="https://i.imgur.com/gNuy8WR.png" alt="Logo" width="80" height="80"></p>
+<h3 align="center">A batch for parsing the meta.xml file from decrypted Nintendo Wii U titles.</h3>
+<hr>
 
+![GitHub Release](https://img.shields.io/github/v/release/xxmichibxx/MetaParserU) ![Downloads](https://img.shields.io/github/downloads/xxmichibxx/MetaParserU/total) ![Issues](https://img.shields.io/github/issues/xxmichibxx/MetaParserU)
 
 ## Features
 The batch displays:
