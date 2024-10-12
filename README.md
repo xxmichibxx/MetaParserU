@@ -36,3 +36,4 @@ You can also run the batch via command line e.g. ```MetaParserU.bat "C:\Call of 
 * For proper drag-and-drop, the title folder needs to be in the Loadiine or CEMU format.
 * It's not possible to run the batch directly. The batch always needs a parameter.
 * The batch runs under Windows 2000, but due to codepage issues, it's not recommended.
+* Japanese characters in folder names are not supported. Please drag and drop only the meta.xml file.
