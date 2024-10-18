@@ -3,7 +3,7 @@
 <h3 align="center">A batch for parsing the meta.xml file from decrypted Nintendo Wii U titles.</h3>
 <hr>
 
-![GitHub Release](https://img.shields.io/github/v/release/xxmichibxx/MetaParserU) ![Downloads](https://img.shields.io/github/downloads/xxmichibxx/MetaParserU/total) ![Issues](https://img.shields.io/github/issues/xxmichibxx/MetaParserU)
+![GitHub Release](https://img.shields.io/github/v/release/xxmichibxx/MetaParserU) ![Issues](https://img.shields.io/github/issues/xxmichibxx/MetaParserU) ![GitHub Repo stars](https://img.shields.io/github/stars/xxmichibxx/MetaParserU)
 
 ## Features
 The batch displays:
